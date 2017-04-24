@@ -1,0 +1,7 @@
+[submodule "htdocs/workstation"]
+	path = htdocs/workstation
+	url = git@github.com:ATM-Consulting/dolibarr_module_workstation.git
+[submodule "htdocs/ordo"]
+	path = htdocs/ordo
+	url = git@github.com:ATM-Consulting/dolibarr_module_ordo.git
+	branch = 2.0
