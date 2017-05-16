@@ -5,3 +5,6 @@
 	path = htdocs/ordo
 	url = git@github.com:ATM-Consulting/dolibarr_module_ordo.git
 	branch = 2.0
+[submodule "htdocs/abricot"]
+	path = htdocs/abricot
+	url = git@github.com:ATM-Consulting/dolibarr_module_abricot.git
